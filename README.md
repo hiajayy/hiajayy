@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a secret project.
+PHP/Laravel Developer
 
 
 ## 🌐 Socials:
